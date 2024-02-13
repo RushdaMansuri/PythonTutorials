@@ -15,4 +15,4 @@ print(f"My name is {name}")
 print(f"My age is {age}")
 print(f"My gender is {gender}")
 
-print(f"{name = }")  # sued for debugging
+print(f"{name = }")  # used for debugging

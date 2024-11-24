@@ -1,6 +1,6 @@
 # Python Tutorials
 
-Welcome to the Python Tutorials repository! This project is dedicated to providing Python programming resources for both beginners and experienced developers. It aims to offer a comprehensive collection of tutorials that cover basic to advanced Python topics.
+Welcome to the Python Tutorials repository!! This project is dedicated to providing Python programming resources for both beginners and experienced developers. It aims to offer a comprehensive collection of tutorials that cover basic to advanced Python topics.
 
 ## Contents
 

@@ -13,6 +13,3 @@ Welcome to the Python Tutorials repository!! This project is dedicated to provid
 
 Contributions are welcome! Feel free to fork the repository and submit your pull requests.
 
-## License
-
-Open-sourced under the MIT License. See LICENSE for details.
